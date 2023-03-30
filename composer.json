@@ -1,0 +1,20 @@
+{
+    "name": "spaethtech/tpl-php-monorepo",
+    "description": "Our monorepo PHP project template.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan Spaeth",
+            "email": "rspaeth@spaethtech.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "spaethtech/php-support": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "SpaethTech\\": "src/"
+        }
+    }
+}
