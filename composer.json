@@ -1,6 +1,7 @@
 {
     "name": "spaethtech/tpl-php-monorepo",
     "description": "Our monorepo PHP project template.",
+    "type": "monorepo",
     "license": "MIT",
     "authors": [
         {
